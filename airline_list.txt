@@ -1,8 +1,0 @@
-亚洲航空	login host: https://ssor.airasia.com/sso/v2/authorization/by-credentials?clientId=AA005MP para:{username: "yezhijie@baidu.com", password: "Richardtt1225"}
-香港快运航空
-乐桃航空 （香港-日本）
-真航空  （韩国）
-宿务太平洋 （日韩、沙特阿拉伯、阿联酋、和东南亚多国）
-飞萤航空
-捷星太平洋 (越南)
-Spring Airlines	
