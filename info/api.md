@@ -7,27 +7,31 @@
 ```
 ... // 若干出发地
 {
-    "DEPCTIYNAME_EN": "Shenzhen",
-    "FLIGHT": [
-        ..., // 若干目的地
+    "FROMOFLIGHTS": [
         {
-            "MINPRICE": "560",
-            "money": "RMB",
-            "RETURNDATE": null,
-            "ARRCTIYNAME_ZH": "杭州",
-            "DEPDATE": "2018-09-23",
-            "SEGTYPE": "S",
-            "ARRCITY": "HGH",
-            "ARRCTIYNAME_EN": "Hangzhou"
+            "DEPCTIYNAME_EN": "Shenzhen",
+            "FLIGHT": [
+                ..., // 若干目的地
+                {
+                    "MINPRICE": "560",
+                    "money": "RMB",
+                    "RETURNDATE": null,
+                    "ARRCTIYNAME_ZH": "杭州",
+                    "DEPDATE": "2018-09-23",
+                    "SEGTYPE": "S",
+                    "ARRCITY": "HGH",
+                    "ARRCTIYNAME_EN": "Hangzhou"
+                },
+                ..., // 若干目的地
+            ],
+            "DEPCITY": "SZX",
+            "DEPCTIYNAME_ZH": "深圳",
+            "REGION_CODE": "HN",
+            "REGION": "华南"
         },
-        ..., // 若干目的地
-    ],
-    "DEPCITY": "SZX",
-    "DEPCTIYNAME_ZH": "深圳",
-    "REGION_CODE": "HN",
-    "REGION": "华南"
-},
-... // 若干出发地
+        ... // 若干出发地
+    ]
+}
 
 ```
 
