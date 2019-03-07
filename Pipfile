@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 pymysql = "*"
 requests = "*"
+scrapy = "*"
 
 [requires]
 python_version = "2.7"
